@@ -25,6 +25,28 @@ body {
 
 }
 
+.btn-0 {
+
+width: 157px;
+height: 70px;
+font-size: 24px;
+
+border-radius: 30px;
+}
+
+.btn-decimal{
+
+margin-left: 13px;;
+
+}
+
+.btn-equal {
+
+    margin-left: 15px;;
+
+
+}
+
 .btn-circle {
     width: 30px;
     height: 30px;
@@ -51,4 +73,17 @@ height: 743px;
 .center {
     margin: auto;
   
+}
+
+
+.digits {
+
+color: white;
+
+}
+
+.spacer {
+
+margin-bottom: 160px;
+
 }
